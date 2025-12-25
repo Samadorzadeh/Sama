@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>معرفی‌نامه سما درزاده | دانش‌آموز نخبه و پژوهشگر</title>
+    <style>
+        /* تنظیمات کلی و فونت ها */
+        body {
+            font-family: 'Tahoma', sans-serif; /* فونت استاندارد فارسی */
+            background-color: #f4f7f6;
+            color: #333;
+            line-height: 1.8;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 1000px;
+            margin: 40px auto;
+            padding: 20px;
+            background-color: #ffffff;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+        }
+        header {
+            text-align: center;
+            padding-bottom: 30px;
+            border-bottom: 2px solid #007bff;
+            margin-bottom: 30px;
+        }
+        header h1 {
+            color: #007bff;
+            font-size: 2.5em;
+            margin-bottom: 5px;
+        }
+        header p {
+            font-size: 1.2em;
+            color: #555;
+        }
+        h2 {
+            color: #0056b3;
+            border-right: 5px solid #ffc107;
+            padding-right: 10px;
+            margin-top: 30px;
+            margin-bottom: 15px;
+        }
+        ul {
+            list-style-type: none;
+            padding-right: 0;
+        }
+        li {
+            background-color: #e9f5ff;
+            margin-bottom: 10px;
+            padding: 12px 15px;
+            border-radius: 6px;
+            border-right: 3px solid #007bff;
+            font-size: 1.1em;
+        }
+        .highlight {
+            color: #d9534f;
+            font-weight: bold;
+        }
+        .achievements-list li {
+            background-color: #f0fff0;
+            border-right: 3px solid #28a745;
+        }
+        footer {
+            text-align: center;
+            margin-top: 40px;
+            padding-top: 20px;
+            border-top: 1px solid #eee;
+            color: #888;
+            font-size: 0.9em;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <header>
+            <h1>معرفی‌نامه رسمی</h1>
+            <p><strong>سما درزاده</strong>: دانش‌آموز نخبه، پژوهشگر و استعداد درخشان</p>
+        </header>
+
+        <section>
+            <h2>سوابق و توانمندی‌های کلیدی</h2>
+            <ul>
+                <li>
+                    <span class="highlight">مجری رسمی:</span> انتخاب به عنوان مجری رسمی بلوچی در مراسمات شهرستان.
+                </li>
+                <li>
+                    <span class="highlight">سخنوری و فن بیان:</span> توانایی بالا در سخنرانی و اجرای مراسمات رسمی.
+                </li>
+                <li>
+                    <span class="highlight">خبرنگاری:</span> دانش‌آموز خبرنگار فعال در خبرگزاری پانا (به مدت سه سال).
+                </li>
+                <li>
+                    <span class="highlight">توانایی‌های فنی:</span> کسب مدرک آموزش پایتون از برنامه ملی ایران دیجیتال.
+                </li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>افتخارات و دستاوردهای علمی</h2>
+            <ul class="achievements-list">
+                <li>
+                    مقام اول مسابقات پژوهشی نوجوان خوارزمی (شهرستان/قطب) - دو سال متوالی.
+                </li>
+                <li>
+                    مقام دوم جشنواره خوارزمی استانی (سال‌های ۱۴۰۳ و ۱۴۰۴).
+                </li>
+                <li>
+                    کسب مقام سوم کشوری در مسابقات دیجیتال بسیج.
+                </li>
+                <li>
+                    انتخاب به عنوان عضو تیم استان برای شرکت در مسابقات کشوری (دانش‌آموز پیشتاز).
+                </li>
+            </ul>
+        </section>
+
+        <footer>
+            <p>این صفحه معرفی بر اساس دستاوردهای برجسته خانم سما درزاده تهیه شده است.</p>
+        </footer>
+    </div>
+
+</body>
+</html>
+
